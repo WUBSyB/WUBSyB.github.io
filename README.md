@@ -1,2 +1,1 @@
-# WUBstar.github.io
-WUB* - Website
+## The WUBSyB website
